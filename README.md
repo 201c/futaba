@@ -1,2 +1,1 @@
-# futaba
-Futaba SBUS Protocol, javascript code
+# Futaba SBUS Protocol, javascript code
